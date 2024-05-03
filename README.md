@@ -1,6 +1,11 @@
 <h1 align="center">Hi there! 👋 I'm Moulaye Mohammed</h1>
 <h3 align="center">A passionate Data Scientist and Statistician Engineer from Mauritania</h3>
 
+<!-- Image -->
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIP.Sy25_EIgzbY-Ul3VpSZ_DAHaFj?rs=1&pid=ImgDetMain" alt="Moulaye Mohammed" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px;">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mulayemuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="mulayemuhammad" /> </p>
 
 <p align="center">
