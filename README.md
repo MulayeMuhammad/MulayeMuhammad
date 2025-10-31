@@ -60,10 +60,6 @@ I'm a **Data Scientist/Engineer** and **Statistician-Economist** from Mauritania
 - Assessed public education spending effects on income and labor market
 - Multi-sector economic modeling
 
-### 💧 Hydro-RIM Startup
-**Focus**: Environmental sustainability, Innovation
-- Co-founded startup for wastewater recycling systems
-- Entrepreneurship and environmental engineering
 
 ---
 
@@ -149,27 +145,6 @@ I'm a **Data Scientist/Engineer** and **Statistician-Economist** from Mauritania
 
 ---
 
-## 💼 Professional Experience Highlights
-
-### 🏆 Kinross Tasiast (TMLSA) - Data Engineer/Scientist
-**Mar 2025 - Aug 2025 | Akjoujt, Mauritania**
-- Built enterprise Data Lakehouse + Data Warehouse processing 1,200+ monthly reports
-- Reduced report consolidation time by 93% (4h → 10min)
-- Achieved 97% faster incident analysis (1h → 2min)
-- Deployed 12 BI dashboards with 92% user adoption
-
-### 📈 SMCP - Data Scientist
-**Jul 2023 - Sep 2023 | Nouadhibou, Mauritania**
-- Developed ML models for fishery demand prediction
-- Optimized inventory management systems
-
-### 🏦 Central Bank of Mauritania - Econometric Analyst
-**Feb 2022 - Jun 2022 | Nouakchott, Mauritania**
-- Analyzed inflation determinants using VECM
-- Co-integration analysis (1986-2020)
-
----
-
 ## 🎯 Current Focus
 
 ```python
@@ -237,7 +212,6 @@ class DataEngineer:
 - 🎓 **Engineering Degree** - Statistics & Data Engineering | ESP Nouakchott (2022-2025)
 - 🎓 **Exchange Program** - Applied Economics, Statistics & Big Data | INSEA Rabat (2024-2025)
 - 🎓 **Bachelor's Degree** - Statistics & Applied Economics | ISMS (2019-2022)
-- 🏅 **Language Certifications**: DALF C1 (French), TOEIC B2 (English)
 
 ---
 
