@@ -19,7 +19,7 @@
 
 ## 🎓 About Me
 
-I'm a **Data Scientist/Engineer** and **Statistician-Economist** from Mauritania with expertise in building enterprise-scale data platforms, machine learning systems, and economic modeling solutions. Graduate of Polytechnique School of Nouakchott (ESP) École Supérieure Polytechnique (ESP) and National Institute of Statistics and Applied Economics (INSEA).
+I'm a **Data Scientist/Engineer** and **Statistician-Economist** from Mauritania with expertise in building enterprise-scale data platforms, machine learning systems, and economic modeling solutions. Graduate of Polytechnique School of Nouakchott (ESP) and National Institute of Statistics and Applied Economics (INSEA).
 
 - 🔭 **Recent Achievement**: Built a complete enterprise **Data Lakehouse & Data Warehouse** platform at Kinross Tasiast, achieving 93% reduction in report consolidation time and 35-45× faster analytical queries
 - 🌱 **Currently Exploring**: Advanced DSGE modeling, Spatial Econometrics, Real-time Streaming Analytics
