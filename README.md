@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Moulaye Ahmed Mohammed Brahim</h1>
-<h3 align="center">Data Scientist | Data Engineer | Statistician-Economist Engineer</h3>
+<h3 align="center">Data Scientist|Engineer and Statistician-Economist </h3>
 <p align="center">Transforming complex data into actionable insights through advanced analytics and enterprise-scale data infrastructure</p>
 
 <!-- Image -->
